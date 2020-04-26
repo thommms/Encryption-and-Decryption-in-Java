@@ -18,6 +18,10 @@ import java.security.InvalidKeyException;
 import java.security.NoSuchAlgorithmException;
 import java.util.Date;
 
+/**
+ * Created by Thomas Okonkwo on 26th April 2020
+ */
+
 public class SecurityUtil {
 
     private static String encryptionKey;

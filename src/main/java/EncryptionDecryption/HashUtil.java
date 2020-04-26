@@ -8,7 +8,9 @@ import java.security.InvalidKeyException;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
-//import java.nio.charset.StandardCharsets;
+/**
+ * Created by Thomas Okonkwo on 26th April 2020
+ */
 
 public class HashUtil {
 

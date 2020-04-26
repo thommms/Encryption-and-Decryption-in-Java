@@ -2,7 +2,7 @@ package EncryptionDecryption;
 
 /**
  * @author Thomas.Okonkwo on 11/03/2020 8:24 AM
- * @project isw-transfer-service-middleware-polaris
+ * @project Encryption and decryption project
  */
 public class EncryptedRequest {
     private String IV;

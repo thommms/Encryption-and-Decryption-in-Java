@@ -5,6 +5,10 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+/**
+ * Created by Thomas Okonkwo on 26th April 2020
+ */
+
 public class DateUtil {
 
     private static ThreadLocal<SimpleDateFormat> inDateFormatHolder =  new ThreadLocal<SimpleDateFormat>() {
